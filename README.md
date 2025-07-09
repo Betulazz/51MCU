@@ -1,2 +1,1 @@
-# 51-
-B站江协科技系列视频代码，仅作个人学习记录！
+江协科技51单片机教学视频：https://www.bilibili.com/video/BV1Mb411e7re
